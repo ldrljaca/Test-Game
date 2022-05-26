@@ -1,0 +1,2 @@
+[object Object] je napao [object Object] pomocu 'hit' napada
+[object Object] je pobedio u duelu sa [object Object]
